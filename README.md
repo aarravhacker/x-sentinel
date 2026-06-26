@@ -1,4 +1,4 @@
-# X-Sentinel Discord Bot
+# Hacker Discord Bot
 
 A powerful multi-functional Discord bot with 900+ commands designed for moderation, entertainment, utility, and server management. Built with advanced security systems including anti-nuke, anti-raid, anti-spam, and real-time threat detection.
 
